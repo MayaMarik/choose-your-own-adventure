@@ -2,8 +2,6 @@ print ("Hello human person! I welcome you on your journey!")
 human = input("What is your name? ")
 print (human + " sounds weird, but okay, lol.")
 
-# Code for making the text red.
-death = "\033[0;31mYou died.\033[0m"
 
 print ("You should probably know, this journey won´t be easy and you might not survive it. Do you want to continue? write yes or no.")
 
